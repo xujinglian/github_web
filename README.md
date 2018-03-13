@@ -22,4 +22,20 @@
 			<li>响应式布局慕课网学习笔记</li>
 		</ol>
 	</li>
+	<li>
+		<p>2018年3月13日</p>
+		<p>遗留工作</p>
+		<ol>
+			<li>JSON【麦子学院web前端】文章接着更新</li>
+		</ol>
+		<p>完成的部分</p>
+		<ol>
+			<li>JSON项目文件（以后请教大牛讲个简单的）</li>
+			<li>上传Ajax全接触慕课网学习笔记</li>
+			<li>Bootstrap响应式整理结束</li>
+			<li>less整理结束</li>
+			<li>json整理结束，剩下结尾的</li>
+			<li>ajax整理结束</li>
+		</ol>
+	</li>
 </ul>
