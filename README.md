@@ -15,8 +15,11 @@
 		<p>开始整理bootstrap响应式布局</p>
 		<ol>
 			<p>文章列表</p>
-			<p>bootstrap清单</p>
-			
+			<li>bootstrap清单</li>
+			<li>玩转Bootstrap基础慕课网学习笔记</li>
+			<li>玩转Bootstrap（JS插件篇）</li>
+			<li>基于Bootstrap的网页开发慕课网学习笔记</li>
+			<li>响应式布局慕课网学习笔记</li>
 		</ol>
 	</li>
 </ul>
