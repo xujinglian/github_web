@@ -37,5 +37,18 @@
 			<li>json整理结束，剩下结尾的</li>
 			<li>ajax整理结束</li>
 		</ol>
+		<p>web前端从电脑转移到石墨文档的记录</p>
+		<ol>
+			<li>CSS总结</li>
+		</ol>
+	</li>
+	<li>
+		<p>2018年3月14日</p>
+		<ol>
+			<p>计划</p>
+			<li>整理电脑上的web资料到石墨</li>
+			<li>前端自动化gulp和webpack充实</li>
+		</ol>
+		
 	</li>
 </ul>
