@@ -48,6 +48,7 @@
 			<p>计划</p>
 			<li>整理电脑上的web资料到石墨</li>
 			<li>前端自动化gulp和webpack充实</li>
+			<li>anjularjs</li>
 		</ol>
 		
 	</li>
